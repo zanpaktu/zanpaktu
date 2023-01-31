@@ -1,10 +1,12 @@
-Hi Leo Camangian Jr.
+<b>Leo Camangian Jr.</b>
 
 👨🏻‍💻 Full Stack Web Developer
 
 Lang & Framework: PHP(Laravel), Javascript(EmberJs)
  
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=zanpaktu&show_icons=true&theme=dracula&hide=stars,issues)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanpaktu&layout=compact&theme=dracula&hide_border=true" />
 
 
 <p align="left">  
