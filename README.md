@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @zanpaktu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi Leo Camangian Jr.
 
-<!---
-zanpaktu/zanpaktu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨🏻‍💻 Full Stack Web Developer
+
+ Lang & Framework: PHP(Laravel), Javascript(EmberJs)
+ 
+ ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+
